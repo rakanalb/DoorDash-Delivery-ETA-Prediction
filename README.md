@@ -87,10 +87,7 @@ project/
 
 ```bash
 # Clone repository
-git clone <repository-url>
-
-# Install dependencies
-pip install -r requirements.txt
+git clone <https://github.com/rakanalb/DoorDash-Delivery-ETA-Prediction.git>
 
 # Launch Jupyter Notebook
 jupyter notebook
